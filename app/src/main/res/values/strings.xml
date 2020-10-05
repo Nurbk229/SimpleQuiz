@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">ProjectQuestion</string>
+
+    <string name="q1">What is the most popular mobile OS in the world ?</string>
+    <string name="q1_choice1">iOS</string>
+    <string name="q1_choice2">Android</string>
+    <string name="q1_choice3">Windows Phone</string>
+
+    <string name="q2">What programming language we use to develop Android apps ?</string>
+    <string name="q2_choice1">Python</string>
+    <string name="q2_choice2">JavaScript</string>
+    <string name="q2_choice3">Java</string>
+
+    <string name="q3">What is the official IDE for Android development ?</string>
+    <string name="q3_choice1">Android IDE</string>
+    <string name="q3_choice2">Android Studio</string>
+    <string name="q3_choice3">Eclipse</string>
+
+    <string name="q4">What is the name of the company that develop Android platform ?</string>
+    <string name="q4_choice1">Facebook</string>
+    <string name="q4_choice2">Udacity</string>
+    <string name="q4_choice3">Google</string>
+
+
+    <string name="q5">What is the latest version of Android ?</string>
+    <string name="q5_choice1">Pie</string>
+    <string name="q5_choice2">11</string>
+    <string name="q5_choice3">Oreo</string>
+
+
+    <string name="question">Question</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="Confirm">Confirm</string>
+    <string name="start_quiz">Short Quiz</string>
+    <string name="start">Start</string>
+
+    <string name="counterQuestion" translatable="false">%d/%d</string>
+    <string name="result">Result</string>
+
+</resources>

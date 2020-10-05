@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">بنك أسألة</string>
+
+
+    <string name="q1">ما هو نظام التشغيل الأكثر انتشارا في العالم ؟</string>
+    <string name="q1_choice1">iOS</string>
+    <string name="q1_choice2">أندرويد</string>
+    <string name="q1_choice3">ويندوز فون</string>
+
+    <string name="q2">ما هي لغة البرمجة التي نستخدمها لبرمجة تطبيقات أندرويد ؟</string>
+    <string name="q2_choice1">بايثون</string>
+    <string name="q2_choice2">جافاسكريبت</string>
+    <string name="q2_choice3">جافا</string>
+
+    <string name="q3">ما هي بيئة التطوير الرسمية المستخدمة في تطوير تطبيقات أندرويد ؟</string>
+    <string name="q3_choice1">بيئة تطوير أندرويد المتكاملة</string>
+    <string name="q3_choice2">أندرويد ستوديو</string>
+    <string name="q3_choice3">إيكلبس</string>
+
+    <string name="q4">ما هو إسم الشركة المطورة لنظام أندرويد ؟</string>
+    <string name="q4_choice1">فيسبوك</string>
+    <string name="q4_choice2">يوداستي</string>
+    <string name="q4_choice3">جوجل
+</string>
+
+
+    <string name="q5">ما هو آخر إصدار من نظام أندرويد ؟?</string>
+    <string name="q5_choice1">Pie</string>
+    <string name="q5_choice2">11</string>
+    <string name="q5_choice3">Oreo</string>
+
+
+    <string name="question">السؤال</string>
+    <string name="next">التالي</string>
+    <string name="Confirm">تأكيد</string>
+    <string name="start_quiz">إختبار قصير</string>
+    <string name="start">إبدأ</string>
+    <string name="finish">إنهاء</string>
+    <string name="result">النتيجة</string>
+
+
+</resources>
